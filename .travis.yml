@@ -16,6 +16,6 @@ install:
 
 # Run tests, lint, and coverage
 script:
-- npm lint
-- npm test
-- npm coverage
+- npm run lint
+- npm run test
+- npm run coverage
