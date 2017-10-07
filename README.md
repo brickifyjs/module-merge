@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brickifyjs/module-merge.svg?branch=master)](https://travis-ci.org/brickifyjs/module-merge)
+
 ## module-merge
 
 Deep merge everyting using powerful merging strategy.
