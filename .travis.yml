@@ -1,0 +1,21 @@
+sudo: false
+
+# Only care about running tests against latest node
+language: node_js
+node_js:
+- node
+
+# Keep node_modules around, it speeds up builds & they don't change often
+cache:
+  directories:
+  - node_modules
+
+# Custom install step so the travis-only stuff doesn't need to be in package.json
+install:
+- npm install
+
+# Run tests, lint, and coverage
+script:
+- npm lint
+- npm test
+- npm coverage
