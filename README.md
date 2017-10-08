@@ -27,7 +27,7 @@ $ npm install @brickify/m-merge
 ```js
 {
   immutable: false, // Returns new Object
-  keepExistingValues: true, // Olders properties are keeped even if not exist in new Object
+  keepExistingValues: true, // Older properties are kept even if they didn't exist in the new object
   eraseMethods: true,  // Override methods or keep previous method
   eraseValues: true, // Override string || boolean || undefined || null
   eraseNotSameType: true, // Override not same types without diff
@@ -63,21 +63,21 @@ console.log(merge(a, b, {immutable: true}));
 // ->  {foo: 'foo'}
 
 
-// Merge objects erasing objects
+// Merge objects erasing existing objects
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b, {eraseObject: true}));
 // -> {bar: 'bar'};
 
 
-// Merge objects and not keep existing values
+// Merge objects without keeping existing values
 var a = {foo: 'foo'};
 var b = {bar: 'bar2'};
 console.log(merge(a, b, {keepExistingValues: false}));
 // -> {bar: 'bar2'}
 
 
-// Merge objects and keep existing values
+// Merge objects keeping existing values
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b));
@@ -90,7 +90,7 @@ console.log(merge(a, b));
 // -> {foo: 'foo2', bar: 'bar'};
 
 
-// Merge objects and not erase values
+// Merge objects and not erase existing values
 var a = {foo: 'foo'};
 var b = {foo: 'foo2', bar: 'bar'};
 console.log(merge(a, b, {eraseValues: false}));
