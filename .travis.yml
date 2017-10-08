@@ -13,6 +13,7 @@ cache:
 # Custom install step so the travis-only stuff doesn't need to be in package.json
 install:
 - npm install
+- npm install -g codecov
 
 # Run tests, lint, and coverage
 script:
@@ -22,4 +23,4 @@ script:
 
 # Run scripts after build
 after_success:
-- npm run coveralls
+- npm run report-coverage
