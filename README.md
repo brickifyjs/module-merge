@@ -1,4 +1,4 @@
-## Module Merge Objects
+## Module Merge Objects [![Website](https://img.shields.io/website/https/m-merge.js.brickify.io.svg?label=m-merge.js.brickify.io&style=flat-square)](https://m-merge.js.brickify.io)
 
 Deep merge everyting using powerful merging strategy.
 
