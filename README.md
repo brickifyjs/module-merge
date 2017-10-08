@@ -15,7 +15,7 @@ Deep merge everyting using powerful merging strategy.
 ## Project Health
 
 [![Travis branch](https://img.shields.io/travis/brickifyjs/module-merge/master.svg?style=flat-square)](https://travis-ci.org/brickifyjs/module-merge)
-[![Coveralls branch](https://img.shields.io/coveralls/brickifyjs/module-merge/master.svg?style=flat-square)](https://coveralls.io/github/brickifyjs/module-merge)
+[![Codecov](https://img.shields.io/codecov/c/github/brickifyjs/module-merge.svg?style=flat-square)](https://codecov.io/gh/brickifyjs/module-merge)
 [![bitHound](https://img.shields.io/bithound/dependencies/github/brickifyjs/module-merge.svg?style=flat-square)](https://www.bithound.io/github/brickifyjs/module-merge/master/dependencies/npm)
 [![bitHound](https://img.shields.io/bithound/devDependencies/github/brickifyjs/module-merge.svg?style=flat-square)](https://www.bithound.io/github/brickifyjs/module-merge/master/dependencies/npm)
 
