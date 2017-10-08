@@ -4,7 +4,7 @@ Deep merge everyting using powerful merging strategy.
 
 ## Project Health
 
-[![Travis branch](https://img.shields.io/travis/brickifyjs/module-merge/master.svg?style=flat-square)]()(https://travis-ci.org/brickifyjs/module-merge)
+[![Travis branch](https://img.shields.io/travis/brickifyjs/module-merge/master.svg?style=flat-square)](https://travis-ci.org/brickifyjs/module-merge)
 
 
 ## Install
