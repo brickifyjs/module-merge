@@ -17,7 +17,7 @@
     "test": "ospec",
     "lint": "eslint .",
     "coverage": "istanbul cover --print both ospec",
-    "reporte-coverage": "codecovs"
+    "report-coverage": "codecovs"
   },
   "main": "src/index.js",
   "files": [
