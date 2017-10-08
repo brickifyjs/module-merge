@@ -2,6 +2,10 @@
 
 Deep merge everyting using powerful merging strategy.
 
+## Statistics
+
+[![Github All Releases](https://img.shields.io/github/downloads/brickifyjs/module-merge/total.svg?style=flat-square)](https://github.com/brickifyjs/module-merge)
+
 ## Social
 [![GitHub forks](https://img.shields.io/github/forks/brickifyjs/module-merge.svg?style=social&label=Fork&style=flat-square)](https://github.com/brickifyjs/module-merge)
 [![GitHub stars](https://img.shields.io/github/stars/brickifyjs/module-merge.svg?style=social&label=Stars&style=flat-square)](https://github.com/brickifyjs/module-merge)
