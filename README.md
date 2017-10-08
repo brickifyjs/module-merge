@@ -45,7 +45,7 @@ $ npm install @brickify/m-merge
 ## Usage
 
 ```js
-var merge = require('@bricksjs/m-merge');
+var merge = require('@brickify/m-merge');
 
 
 // Merge not same type
