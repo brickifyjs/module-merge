@@ -1,5 +1,7 @@
 ## Module Merge Objects
 
+[![Join the chat at https://gitter.im/brickifyjs/module-merge](https://badges.gitter.im/brickifyjs/module-merge.svg)](https://gitter.im/brickifyjs/module-merge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Deep merge everyting using powerful merging strategy.
 
 ## Statistics
