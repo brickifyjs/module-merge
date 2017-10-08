@@ -2,6 +2,11 @@
 
 Deep merge everyting using powerful merging strategy.
 
+## Social
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=flat-square)](https://github.com/brickifyjs/module-merge)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=flat-square)](https://github.com/brickifyjs/module-merge)
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=flat-square)](https://github.com/brickifyjs/module-merge)
+
 ## Project Health
 
 [![Travis branch](https://img.shields.io/travis/brickifyjs/module-merge/master.svg?style=flat-square)](https://travis-ci.org/brickifyjs/module-merge)
