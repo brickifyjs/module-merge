@@ -1,4 +1,4 @@
-## module-merge
+## Module Merge Objects
 
 Deep merge everyting using powerful merging strategy.
 
