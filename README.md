@@ -5,7 +5,7 @@ Deep merge everyting using powerful merging strategy.
 ## Project Health
 
 [![Travis branch](https://img.shields.io/travis/brickifyjs/module-merge/master.svg?style=flat-square)](https://travis-ci.org/brickifyjs/module-merge)
-[![Coveralls branch](https://img.shields.io/coveralls/jekyll/jekyll/master.svg?style=flat-square)](https://coveralls.io/github/brickifyjs/module-merge)
+[![Coveralls branch](https://img.shields.io/coveralls/brickifyjs/module-merge/master.svg?style=flat-square)](https://coveralls.io/github/brickifyjs/module-merge)
 
 
 ## Install
