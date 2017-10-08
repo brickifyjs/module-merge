@@ -17,7 +17,7 @@ Deep merge everyting using powerful merging strategy.
 ## Install
 
 ```bash
-$ npm install @bricksjs/m-merge
+$ npm install @brickify/m-merge
 ```
 
 ## Options
