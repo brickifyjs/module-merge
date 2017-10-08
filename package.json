@@ -1,5 +1,5 @@
 {
-  "name": "@bricksjs/m-merge",
+  "name": "@brickify/m-merge",
   "version": "1.0.1",
   "description": "Deep merge everyting using powerful merging strategy",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "author": "Nicolas RAIBAUD",
   "license": "MIT",
-  "repository": "bricksjs/module-merge",
+  "repository": "brickifyjs/module-merge",
   "scripts": {
     "test": "ospec",
     "lint": "eslint .",
