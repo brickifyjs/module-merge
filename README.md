@@ -1,4 +1,4 @@
-## Module Merge Objects [![Website](https://img.shields.io/website/https/m-merge.js.brickify.io.svg?label=website&style=flat-square)](https://m-merge.js.brickify.io)
+## Module Merge Objects
 
 Deep merge everyting using powerful merging strategy.
 
@@ -18,6 +18,7 @@ Deep merge everyting using powerful merging strategy.
 [![Codecov](https://img.shields.io/codecov/c/github/brickifyjs/module-merge.svg?style=flat-square)](https://codecov.io/gh/brickifyjs/module-merge)
 [![bitHound](https://img.shields.io/bithound/dependencies/github/brickifyjs/module-merge.svg?style=flat-square)](https://www.bithound.io/github/brickifyjs/module-merge/master/dependencies/npm)
 [![bitHound](https://img.shields.io/bithound/devDependencies/github/brickifyjs/module-merge.svg?style=flat-square)](https://www.bithound.io/github/brickifyjs/module-merge/master/dependencies/npm)
+[![Website](https://img.shields.io/website/https/m-merge.js.brickify.io.svg?label=website&style=flat-square)](https://m-merge.js.brickify.io)
 
 ## Install
 
