@@ -5,12 +5,12 @@ Deep merge everyting using powerful merging strategy.
 ## Statistics
 
 [![Github All Releases](https://img.shields.io/github/downloads/brickifyjs/module-merge/total.svg?style=flat-square)](https://github.com/brickifyjs/module-merge)
-[![npm](https://img.shields.io/npm/dt/@brickify/m-merge.svg)](https://www.npmjs.com/package/@brickify/m-merge)
+[![npm](https://img.shields.io/npm/dt/@brickify/m-merge.svg?style=flat-square)](https://www.npmjs.com/package/@brickify/m-merge)
 
 ## Social
-[![GitHub forks](https://img.shields.io/github/forks/brickifyjs/module-merge.svg?style=social&label=Fork&style=flat-square)](https://github.com/brickifyjs/module-merge)
-[![GitHub stars](https://img.shields.io/github/stars/brickifyjs/module-merge.svg?style=social&label=Stars&style=flat-square)](https://github.com/brickifyjs/module-merge)
-[![GitHub watchers](https://img.shields.io/github/watchers/brickifyjs/module-merge.svg?style=social&label=Watch&style=flat-square)](https://github.com/brickifyjs/module-merge)
+[![GitHub forks](https://img.shields.io/github/forks/brickifyjs/module-merge.svg?label=Fork&style=flat-square)](https://github.com/brickifyjs/module-merge)
+[![GitHub stars](https://img.shields.io/github/stars/brickifyjs/module-merge.svg?label=Stars&style=flat-square)](https://github.com/brickifyjs/module-merge)
+[![GitHub watchers](https://img.shields.io/github/watchers/brickifyjs/module-merge.svg?label=Watch&style=flat-square)](https://github.com/brickifyjs/module-merge)
 
 ## Project Health
 
