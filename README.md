@@ -11,7 +11,7 @@ Deep merge everyting using powerful merging strategy.
 [![GitHub forks](https://img.shields.io/github/forks/brickifyjs/module-merge.svg?label=Fork&style=flat-square)](https://github.com/brickifyjs/module-merge)
 [![GitHub stars](https://img.shields.io/github/stars/brickifyjs/module-merge.svg?label=Stars&style=flat-square)](https://github.com/brickifyjs/module-merge)
 [![GitHub watchers](https://img.shields.io/github/watchers/brickifyjs/module-merge.svg?label=Watch&style=flat-square)](https://github.com/brickifyjs/module-merge)
-[![Join the chat at https://gitter.im/brickifyjs/module-merge](https://badges.gitter.im/brickifyjs/module-merge.svg?style=flat-square)](https://gitter.im/brickifyjs/module-merge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/gitter/room/brickifyjs/module-merge.svg?style=flat-square)](https://gitter.im/brickifyjs/module-merge)
 
 ## Project Health
 
