@@ -63,41 +63,41 @@ console.log(merge(a, b));
 // ->  {foo: 'foo'}
 
 
-// Merge object and make it immutable
+// Merge object(s) and make it immutable
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b, {immutable: true}));
 // ->  {foo: 'foo'}
 
 
-// Merge object and erase the existing objects
+// Merge object(s) and erase the existing objects
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b, {eraseObject: true}));
 // -> {bar: 'bar'};
 
 
-// Merge objects without keeping existing values
+// Merge object(s) without keeping existing values
 var a = {foo: 'foo'};
 var b = {bar: 'bar2'};
 console.log(merge(a, b, {keepExistingValues: false}));
 // -> {bar: 'bar2'}
 
 
-// Merge objects keeping existing values
+// Merge object(s) keeping existing values
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b));
 // -> {foo: 'foo', bar: 'bar'}
 
-// Merge objects
+// Merge object(s)
 var a = {foo: 'foo'};
 var b = {foo: 'foo2', bar: 'bar'};
 console.log(merge(a, b));
 // -> {foo: 'foo2', bar: 'bar'};
 
 
-// Merge objects without erasing the existing values
+// Merge object(s) without erasing the existing values
 var a = {foo: 'foo'};
 var b = {foo: 'foo2', bar: 'bar'};
 console.log(merge(a, b, {eraseValues: false}));
