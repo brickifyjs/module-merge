@@ -1,6 +1,6 @@
 ## Module Merge Objects
 
-Deep merge everyting using powerful merging strategy.
+Carry out a "deep merge" to merge everyting using this new powerful merging strategy.
 
 ## Statistics
 
@@ -33,11 +33,11 @@ $ npm install @brickify/m-merge
 
 ```js
 {
-  immutable: false, // Returns new Object
+  immutable: false, // Returns a new Object
   keepExistingValues: true, // Older properties are kept even if they didn't exist in the new object
-  eraseMethods: true,  // Override methods or keep previous method
+  eraseMethods: true,  // Override or keep previous methods
   eraseValues: true, // Override string || boolean || undefined || null
-  eraseNotSameType: true, // Override not same types without diff
+  eraseNotSameType: true, // Override if not of the same type without a diff
   eraseArray: false, // Direct Override Arrays
   eraseObject: false // Direct Override Objects
 }
@@ -49,28 +49,28 @@ $ npm install @brickify/m-merge
 var merge = require('@brickify/m-merge');
 
 
-// Merge not same type
+// Merge if not of the same type
 var a = 1;
 var b = null;
 console.log(merge(a, b));
 // -> null
 
 
-// Merge object not immutable
+// Merge if the object(s) is not immutable
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b));
 // ->  {foo: 'foo'}
 
 
-// Merge object immutable
+// Merge object and make it immutable
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b, {immutable: true}));
 // ->  {foo: 'foo'}
 
 
-// Merge objects erasing existing objects
+// Merge object and erase the existing objects
 var a = {foo: 'foo'};
 var b = {bar: 'bar'};
 console.log(merge(a, b, {eraseObject: true}));
@@ -97,7 +97,7 @@ console.log(merge(a, b));
 // -> {foo: 'foo2', bar: 'bar'};
 
 
-// Merge objects and not erase existing values
+// Merge objects without erasing the existing values
 var a = {foo: 'foo'};
 var b = {foo: 'foo2', bar: 'bar'};
 console.log(merge(a, b, {eraseValues: false}));
